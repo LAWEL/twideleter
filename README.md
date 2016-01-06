@@ -18,4 +18,4 @@ access_token_secret = 'xxxxx'
 python twideleter.py
 
 # 環境
-TODO
+Python 2.7.10
