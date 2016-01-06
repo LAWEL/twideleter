@@ -1,2 +1,2 @@
-app/conf.py*
-
+app/conf.py
+*.pyc
